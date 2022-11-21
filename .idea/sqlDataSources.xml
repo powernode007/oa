@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2fa078d9-c2ca-4898-85fc-56e8d932066c" />
+          <option name="name" value="emp" />
+          <option name="urls">
+            <array>
+              <option value="file://$USER_HOME$/Desktop/03-资料/emp.sql" />
+              <option value="file://$USER_HOME$/Desktop/03-资料/dept.sql" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
